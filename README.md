@@ -1,6 +1,6 @@
 # LoginPage_PHP
 
-This is a Login Page and Registration System created using PHP, HTML, CSS and Mysql as Backend. No FrmaweWork Has Been Used(Bootsrap)
+This is a Login Page and Registration System created using PHP, HTML, CSS and Mysql as Backend. No FrameWork Has Been Used(Bootsrap)
 
 Features
 -----------
@@ -25,9 +25,10 @@ It's a Simple and Amazing system.
 
 Instruction to Use it
 --------------------------
+
 1) Clone or Download all It's Files
 2)Create a Database Named Login
-3)Go to Import Tab in your database and locate the sql file you downloaded.
+3)Go to Import Tab in your database and locate the sql file you downloaded(It's Named Login.sql in my files).
 4)Create a Folder in C:\xampp\htdocs(If you're using Windows and XAMPP)
 5) Copy all the downloaded Files in the Folder You Created.
 5)Start Apache Server and Mysql.
